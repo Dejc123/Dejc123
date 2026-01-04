@@ -1,14 +1,19 @@
 # CargoTrans Projects by @Dejc123
 
+## 🔗 Quick Links
+- [CargoTrans Web Wallet](https://dejc123.github.io/cargotrans-web-wallet/) (Open in browser)
+- [Transport Order Generator](https://dejc123.github.io/transport_order_general/) (Open in browser)
+
 Hi, I’m @Dejc123 👋  
 
 We are building tools to modernize freight management with blockchain and Web3 technology.  
+Check out our [Web Wallet](https://dejc123.github.io/cargotrans-web-wallet/) to manage CT tokens directly in your browser.  
 
 ---
 
 ## 🌟 Current Projects
 
-### 1. [CargoTrans Web Wallet](https://github.com/Dejc123/cargotrans-web-wallet)  
+### 1. CargoTrans Web Wallet  
 A web-based crypto wallet for CargoTrans utility token (CT) on the Polygon network.  
 Features:
 - Connect MetaMask (desktop & mobile ready)
@@ -16,12 +21,16 @@ Features:
 - Send CT tokens
 - Swap tokens via QuickSwap  
 
-### 2. [Transport Order Generator](https://github.com/Dejc123/transport_order_general)  
+Open the wallet here: [CargoTrans Web Wallet](https://dejc123.github.io/cargotrans-web-wallet/)  
+
+### 2. Transport Order Generator  
 A web-based transport order form that generates PDFs for general and refrigerated shipments.  
 Features:
 - Fill out shipper, carrier, loading/unloading info
 - Specify pallets, temperature control, special remarks
 - Auto-calculation of totals and PDF export
+
+Try it online: [Transport Order Generator](https://dejc123.github.io/transport_order_general/)  
 
 ---
 
@@ -46,6 +55,7 @@ For inquiries or collaboration: [dejan.luzar@cargotrans.net](mailto:dejan.luzar@
 ## ⚖️ License
 
 This project is open source – feel free to use and modify.
+
 
 
 <!---
