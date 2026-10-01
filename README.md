@@ -32,7 +32,7 @@ Features:
 
 Try it online: [Transport Order Generator](https://dejc123.github.io/transport_order_general/)  
 
-## 3. PayFreight (PFT) on Solana – Development Status (October 1, 2026)
+## 3. PayFreight (PAYF) on Solana – Development Status (October 1, 2026)
 PayFreight represents an advanced blockchain escrow and freight financing system built on the Solana network using the Anchor framework. The core engine is fully established and undergoing initial validation tests.
 
 * **Dual-Market Support (USD & EUR):** A comprehensive solution enabling secure transactions in both the global USD environment (USDC) and the dedicated European market (EURC stablecoin).
